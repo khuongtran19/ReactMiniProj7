@@ -1,3 +1,5 @@
+This project for learning purpose. Re-create twitch.com using React + Redux with Google Authentication.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
