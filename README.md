@@ -1,4 +1,7 @@
-This project for learning purpose. Re-create twitch.com using React + Redux, Redux Form and Google Authentication. 
+This project for learning purpose. Re-create twitch.com using React + Redux, Redux Form and Google Authentication. This project also require to download OBS program to able to stream and show in the app
+
+Link for download requirement programs:
+[OBS](https://obsproject.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
