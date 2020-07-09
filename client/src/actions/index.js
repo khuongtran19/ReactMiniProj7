@@ -9,6 +9,7 @@ import {
     EDIT_STREAM,
     DELETE_STREAM
 } from './types'
+
 export const signIn = userId => {
     return {
         type: SIGN_IN,
@@ -54,6 +55,8 @@ export const editStream = (id, formValues) => async dispatch => {
     dispatch({
         type: EDIT_STREAM, payload: response.data
     })
+
+    history.push('/')
 }
 
 export const deleteStream = id => async dispatch => {
